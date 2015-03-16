@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50200000173EEAE6009AF03D /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF3173EEAE5009AF03D /* 0.png */; };
+		50200001173EEAE6009AF03D /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF4173EEAE5009AF03D /* 1.png */; };
+		50200002173EEAE6009AF03D /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF5173EEAE5009AF03D /* 2.png */; };
+		50200003173EEAE6009AF03D /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF6173EEAE5009AF03D /* 3.png */; };
+		50200004173EEAE6009AF03D /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF7173EEAE6009AF03D /* 4.png */; };
+		50200005173EEAE6009AF03D /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF8173EEAE6009AF03D /* 5.png */; };
+		50200006173EEAE6009AF03D /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFF9173EEAE6009AF03D /* 6.png */; };
+		50200007173EEAE6009AF03D /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFFA173EEAE6009AF03D /* 7.png */; };
+		50200008173EEAE6009AF03D /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFFB173EEAE6009AF03D /* 8.png */; };
+		50200009173EEAE6009AF03D /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020FFFC173EEAE6009AF03D /* 9.png */; };
+		5020000A173EEAE6009AF03D /* NumberInputViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5020FFFE173EEAE6009AF03D /* NumberInputViewController.m */; };
+		5020002A17412206009AF03D /* dot.png in Resources */ = {isa = PBXBuildFile; fileRef = 5020002917412206009AF03D /* dot.png */; };
+		5020002C174122B3009AF03D /* NumberInputViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5020002B174122B3009AF03D /* NumberInputViewController.xib */; };
 		5020FF85173D9C7D009AF03D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5020FF84173D9C7D009AF03D /* UIKit.framework */; };
 		5020FF87173D9C7D009AF03D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5020FF86173D9C7D009AF03D /* Foundation.framework */; };
 		5020FF89173D9C7D009AF03D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5020FF88173D9C7D009AF03D /* CoreGraphics.framework */; };
@@ -27,6 +40,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5020002917412206009AF03D /* dot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dot.png; sourceTree = "<group>"; };
+		5020002B174122B3009AF03D /* NumberInputViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NumberInputViewController.xib; sourceTree = "<group>"; };
 		5020FF81173D9C7D009AF03D /* CustomizedKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomizedKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5020FF84173D9C7D009AF03D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5020FF86173D9C7D009AF03D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -50,6 +65,18 @@
 		5020FFAA173D9C7D009AF03D /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		5020FFAC173D9C7D009AF03D /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		5020FFAE173D9C7D009AF03D /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		5020FFF3173EEAE5009AF03D /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		5020FFF4173EEAE5009AF03D /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		5020FFF5173EEAE5009AF03D /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		5020FFF6173EEAE5009AF03D /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		5020FFF7173EEAE6009AF03D /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		5020FFF8173EEAE6009AF03D /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		5020FFF9173EEAE6009AF03D /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		5020FFFA173EEAE6009AF03D /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		5020FFFB173EEAE6009AF03D /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		5020FFFC173EEAE6009AF03D /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		5020FFFD173EEAE6009AF03D /* NumberInputViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberInputViewController.h; sourceTree = "<group>"; };
+		5020FFFE173EEAE6009AF03D /* NumberInputViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberInputViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +123,20 @@
 		5020FF8A173D9C7D009AF03D /* CustomizedKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				5020002917412206009AF03D /* dot.png */,
+				5020FFF3173EEAE5009AF03D /* 0.png */,
+				5020FFF4173EEAE5009AF03D /* 1.png */,
+				5020FFF5173EEAE5009AF03D /* 2.png */,
+				5020FFF6173EEAE5009AF03D /* 3.png */,
+				5020FFF7173EEAE6009AF03D /* 4.png */,
+				5020FFF8173EEAE6009AF03D /* 5.png */,
+				5020FFF9173EEAE6009AF03D /* 6.png */,
+				5020FFFA173EEAE6009AF03D /* 7.png */,
+				5020FFFB173EEAE6009AF03D /* 8.png */,
+				5020FFFC173EEAE6009AF03D /* 9.png */,
+				5020FFFD173EEAE6009AF03D /* NumberInputViewController.h */,
+				5020FFFE173EEAE6009AF03D /* NumberInputViewController.m */,
+				5020002B174122B3009AF03D /* NumberInputViewController.xib */,
 				5020FF93173D9C7D009AF03D /* AppDelegate.h */,
 				5020FF94173D9C7D009AF03D /* AppDelegate.m */,
 				5020FF9C173D9C7D009AF03D /* MainStoryboard_iPhone.storyboard */,
@@ -188,6 +229,18 @@
 				5020FFA8173D9C7D009AF03D /* first@2x.png in Resources */,
 				5020FFAD173D9C7D009AF03D /* second.png in Resources */,
 				5020FFAF173D9C7D009AF03D /* second@2x.png in Resources */,
+				50200000173EEAE6009AF03D /* 0.png in Resources */,
+				50200001173EEAE6009AF03D /* 1.png in Resources */,
+				50200002173EEAE6009AF03D /* 2.png in Resources */,
+				50200003173EEAE6009AF03D /* 3.png in Resources */,
+				50200004173EEAE6009AF03D /* 4.png in Resources */,
+				50200005173EEAE6009AF03D /* 5.png in Resources */,
+				50200006173EEAE6009AF03D /* 6.png in Resources */,
+				50200007173EEAE6009AF03D /* 7.png in Resources */,
+				50200008173EEAE6009AF03D /* 8.png in Resources */,
+				50200009173EEAE6009AF03D /* 9.png in Resources */,
+				5020002A17412206009AF03D /* dot.png in Resources */,
+				5020002C174122B3009AF03D /* NumberInputViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +255,7 @@
 				5020FF95173D9C7D009AF03D /* AppDelegate.m in Sources */,
 				5020FFA4173D9C7D009AF03D /* FirstViewController.m in Sources */,
 				5020FFAB173D9C7D009AF03D /* SecondViewController.m in Sources */,
+				5020000A173EEAE6009AF03D /* NumberInputViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +388,7 @@
 				5020FFB4173D9C7D009AF03D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

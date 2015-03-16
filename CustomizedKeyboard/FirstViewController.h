@@ -10,4 +10,6 @@
 
 @interface FirstViewController : UIViewController
 
+@property (nonatomic, retain) IBOutlet UITextField *myTextField;
+
 @end
