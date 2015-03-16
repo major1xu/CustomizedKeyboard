@@ -6,3 +6,6 @@ This keyboard is mostly to help the number input.
 
 Can be used in combination with keyboard accessory view
 https://developer.apple.com/library/prerelease/ios/samplecode/KeyboardAccessory/Introduction/Intro.html
+
+This example can be best used on iPad.
+
